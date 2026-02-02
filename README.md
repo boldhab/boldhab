@@ -1,4 +1,4 @@
-<img src="./Banner.png" alt="Raheel Arfeen Banner" width="100%"/>
+[![](https://raw.githubusercontent.com/boldhab/boldhab/main/profile.gif)]()
 
 # 👋 Hi, I'm Raheel Arfeen Rahat  
 **Full Stack Developer | MERN Stack | Backend Enthusiast**
