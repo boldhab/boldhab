@@ -1,4 +1,5 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]()<!-- If you want the template for my gif, email me! -->
+[![Profile Video](https://raw.githubusercontent.com/boldhab/boldhab/main/profile.png)](https://github.com/boldhab/boldhab/blob/main/profile.mp4)
+<!-- If you want the template for my gif, email me! -->
 
 https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/
 ### Languages
