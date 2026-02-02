@@ -1,7 +1,4 @@
-[![Profile Video](https://raw.githubusercontent.com/boldhab/boldhab/main/profile.png)](https://github.com/boldhab/boldhab/blob/main/profile.mp4)
-<!-- If you want the template for my gif, email me! -->
 
-https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -42,7 +39,6 @@ https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](htt
 [![](https://img.shields.io/badge/-🏠%20Real%20Estate-000)](https://github.com/boldhab/Real-esate.git)
 [![](https://img.shields.io/badge/-👥%20Social%20Manager-000)](https://github.com/boldhab/scoial-manager.git)
 [![](https://img.shields.io/badge/-📝%20Task%20Management-000)](https://github.com/boldhab/Task_managment.git)
-[![](https://img.shields.io/badge/-🛒%20E-commerce-000)](https://github.com/boldhab/e-commerce.git)
 [![](https://img.shields.io/badge/-🎮%20Games-000)](https://github.com/boldhab/Games.git)
 
 ### Full-Stack Projects
