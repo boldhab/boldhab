@@ -23,7 +23,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/habtam-befekadu">
     <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2" />
   </a>
