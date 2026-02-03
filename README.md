@@ -106,23 +106,28 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-##  GitHub Stats
-
+<!-- GitHub Stats Section -->
 <p align="center">
-  <!-- GitHub Stats -->
+
+  <!-- Overall GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=boldhab&show_icons=true&hide_border=true" height="160" />
+
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&hide_border=true" height="160" />
+
+  <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldhab" height="160" />
-  <p align="center">
+
+  <!-- GitHub Trophies -->
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=boldhab&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" />
-</p>
 
-
-</p>
-
-<p align="center">
+  <!-- Top Languages -->
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldhab&layout=compact&hide_border=true&langs_count=8" height="160" />
+
 </p>
+
 
 ## 🔗 Connect With Me
 
