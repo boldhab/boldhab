@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/boldhab/boldhab/main/banner1.png" alt="Habtamu Befekadu Banner" />
+  <img src="https://raw.githubusercontent.com/boldhab/boldhab/main/banner1.png" 
+       alt="Habtamu Befekadu Banner" 
+       height="120" /> <!-- Decreased from default -->
 </p>
+
 
 # 👋 Hi, I'm Habtamu Befekadu  
 **Full Stack Developer | MERN Stack | Backend Enthusiast**
