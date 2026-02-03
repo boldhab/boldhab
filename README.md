@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/boldhab/boldhab/main/banner1.png" 
        alt="Habtamu Befekadu Banner" 
-       height="120" /> <!-- Decreased from default -->
+       style="height:120px; object-fit:cover;" />
 </p>
+
 
 
 # 👋 Hi, I'm Habtamu Befekadu  
