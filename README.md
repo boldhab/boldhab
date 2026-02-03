@@ -1,29 +1,41 @@
-[![](https://raw.githubusercontent.com/boldhab/boldhab/main/profile.gif)]()
-
-# 👋 Hi, I'm Raheel Arfeen Rahat  
+# 👋 Hi, I'm Habtamu Befekadu  
 **Full Stack Developer | MERN Stack | Backend Enthusiast**
 
 ---
 
 ## 🧑‍💻 About Me
-I'm a passionate **Full Stack Developer** with a growing love for backend technologies.  
-I enjoy building modern, scalable web applications and experimenting with new tools.  
-My focus is on creating clean, efficient, and user-friendly solutions.  
-Always eager to collaborate and learn from like-minded developers.
+
+I am a **Software Engineering student** at **Debre Birhan University** and a passionate **Full Stack Developer** with a strong interest in backend technologies.
+
+I enjoy building **modern, scalable web applications** and experimenting with new tools and frameworks. My focus is on writing **clean, efficient, and maintainable code** while delivering **user-friendly solutions**.
+
+I’m always eager to **learn, collaborate**, and grow with like-minded developers.
 
 ---
 
 ## 🚀 Current Activities
-- 🔭 Building a **Fitness Tracker MERN App** with Stripe integration.  
-- 📚 Exploring **Next.js** advanced features.  
-- 🛠 Learning backend optimization patterns in **Node.js**.  
-- 🎯 Improving UI/UX skills with **Framer Motion** and **Tailwind CSS**.
+
+- 📚 Exploring advanced features of **Next.js**
+- 🛠 Learning backend optimization patterns with **Node.js**
+- 🎯 Improving UI/UX skills using **Tailwind CSS** and **Framer Motion**
 
 ---
 
-## 💻 Tech Stack
+## 🔗 Connect With Me
 
-### **Languages**
+<p align="center">
+  <a href="https://www.linkedin.com/in/habtam-befekadu">
+    <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:habtamubefekadu19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
+
+---
+
+## 🧠 Languages
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -33,69 +45,86 @@ Always eager to collaborate and learn from like-minded developers.
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=8892be)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
+
+## 🎨 Frontend Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
 
-### **Backend**
+---
+
+## 🧩 Backend Technologies
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-### **Deployment & Version Control**
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### **Design Tools**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
 
-## 🖥 Projects
+## 🗄 Databases
 
-### **Front-End Projects**
-[![](https://img.shields.io/badge/-🏨%20Hotel%20Management-000)](https://github.com/boldhab/Hotel-managment-front-end.git)
-[![](https://img.shields.io/badge/-🏠%20Real%20Estate-000)](https://github.com/boldhab/Real-esate.git)
-[![](https://img.shields.io/badge/-👥%20Social%20Manager-000)](https://github.com/boldhab/scoial-manager.git)
-[![](https://img.shields.io/badge/-📝%20Task%20Management-000)](https://github.com/boldhab/Task_managment.git)
-[![](https://img.shields.io/badge/-🛒%20E-commerce-000)](https://github.com/boldhab/e-commerce.git)
-[![](https://img.shields.io/badge/-🎮%20Games-000)](https://github.com/boldhab/Games.git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
-### **Full-Stack Projects**
-[![](https://img.shields.io/badge/-💼%20Job%20Site-000)](https://github.com/boldhab/job-site.git)
+---
+
+## 🚀 Deployment & Version Control
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+
+---
+
+## 🎨 Design Tools
+
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-Illustrator&logoColor=FF9A00)
+
+---
+
+## 💻 Frontend Projects
+
+[![](https://img.shields.io/badge/-🏨%20Hotel%20Management-000)](https://github.com/boldhab/Hotel-managment-front-end)
+[![](https://img.shields.io/badge/-🏠%20Real%20Estate-000)](https://github.com/boldhab/Real-esate)
+[![](https://img.shields.io/badge/-👥%20Social%20Manager-000)](https://github.com/boldhab/scoial-manager)
+[![](https://img.shields.io/badge/-📝%20Task%20Management-000)](https://github.com/boldhab/Task_managment)
+[![](https://img.shields.io/badge/-🛒%20E--Commerce-000)](https://github.com/boldhab/e-commerce)
+[![](https://img.shields.io/badge/-🎮%20Games-000)](https://github.com/boldhab/Games)
+
+---
+
+## 🌐 Full Stack Projects
+
+[![](https://img.shields.io/badge/-💼%20Job%20Site-000)](https://github.com/boldhab/job-site)
 
 ---
 
 ## 📊 GitHub Stats
 
-| Top Languages | GitHub Stats | Streak |
-|:---:|:---:|:---:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boldhab&theme=tokyonight&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api?username=boldhab&theme=tokyonight&show_icons=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=boldhab&theme=tokyonight) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boldhab&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&hide_border=true" height="160" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldhab&layout=compact&hide_border=true&langs_count=8" height="160" />
+</p>
 
 ## 📬 Get in Touch
 
-I'm always open to collaboration, feedback, or just a friendly chat!  
+- 📍 **Location:** Debre Birhan, Ethiopia  
+- 💼 **LinkedIn:** [Habtamu Befekadu](https://www.linkedin.com/in/habtam-befekadu)  
+- 📧 **Email:** habtamubefekadu19@gmail.com  
 
-- 📧 **Email**: [raheelarfeen@gmail.com](mailto:raheelarfeen@gmail.com)  
-- 🌐 **Portfolio**: [https://raheelarfeen.com](https://raheelarfeen.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/raheelarfeen](https://www.linkedin.com/in/raheelarfeen/)  
-
----
-
-💡 *Let’s connect and build something amazing together!*
+Feel free to reach out for **collaboration, internships, freelance opportunities, or tech discussions**.
