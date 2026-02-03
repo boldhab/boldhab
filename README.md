@@ -108,11 +108,12 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 <!-- GitHub Stats Section -->
 <p align="center">
-![Top Langs](https://img.shields.io/github/languages/top/boldhab?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/boldhab?style=for-the-badge)
 
-
- 
+  <!-- Top Languages & Followers Badges -->
+  <img src="https://img.shields.io/github/languages/top/boldhab?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/boldhab?style=for-the-badge" />
+  
+  <br><br>
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&hide_border=true" height="160" />
@@ -123,9 +124,12 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
   <!-- GitHub Trophies -->
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=boldhab&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies" />
-   <!-- Overall GitHub Stats -->
+
+  <!-- Overall GitHub Stats -->
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=boldhab&show_icons=true&hide_border=true" height="160" />
-  <!-- Top Languages -->
+
+  <!-- Top Languages Compact -->
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldhab&layout=compact&hide_border=true&langs_count=8" height="160" />
 
