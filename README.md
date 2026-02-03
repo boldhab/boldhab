@@ -3,7 +3,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I am a **Software Engineering student** at **Debre Birhan University** and a passionate **Full Stack Developer** with a strong interest in backend technologies.
 
@@ -13,15 +13,15 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-## 🚀 Current Activities
+##  Current Activities
 
-- 📚 Exploring advanced features of **Next.js**
-- 🛠 Learning backend optimization patterns with **Node.js**
-- 🎯 Improving UI/UX skills using **Tailwind CSS** and **Framer Motion**
+-  Exploring advanced features of **Next.js**
+-  Learning backend optimization patterns with **Node.js**
+-  Improving UI/UX skills using **Tailwind CSS** and **Framer Motion**
 
 ---
 
-## 🧠 Languages
+##  Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -34,7 +34,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-## 🎨 Frontend Technologies
+##  Frontend Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -45,7 +45,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-## 🧩 Backend Technologies
+##  Backend Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
@@ -54,7 +54,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-## 🗄 Databases
+##  Databases
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
@@ -63,7 +63,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-## 🚀 Deployment & Version Control
+##  Deployment & Version Control
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
@@ -72,7 +72,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-## 🎨 Design Tools
+## Design Tools
 
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
@@ -80,7 +80,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-## 💻 Frontend Projects
+##  Frontend Projects
 
 [![](https://img.shields.io/badge/-🏨%20Hotel%20Management-000)](https://github.com/boldhab/Hotel-managment-front-end)
 [![](https://img.shields.io/badge/-🏠%20Real%20Estate-000)](https://github.com/boldhab/Real-esate)
@@ -91,13 +91,13 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-## 🌐 Full Stack Projects
+##  Full Stack Projects
 
 [![](https://img.shields.io/badge/-💼%20Job%20Site-000)](https://github.com/boldhab/job-site)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boldhab&show_icons=true&hide_border=true" height="160" />
