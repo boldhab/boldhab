@@ -109,14 +109,18 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  
-  <br><br>
-
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&hide_border=true" height="160" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&hide_border=true"
+    height="160"
+  />
 
   <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldhab" height="160" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldhab"
+    height="160"
+  />
+</p>
 
 
 
