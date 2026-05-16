@@ -1,61 +1,111 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/boldhab/boldhab/main/banner1.png" 
-       alt="Habtamu Befekadu Banner" 
-       style="width:100%; height:170px; object-fit:cover;" />
+  <img 
+    src="https://raw.githubusercontent.com/boldhab/boldhab/main/banner1.png"
+    alt="Habtamu Befekadu Banner"
+    width="100%"
+    height="170"
+  />
 </p>
 
+# 👋 Hi, I'm Habtamu Befekadu
 
-
-
-# 👋 Hi, I'm Habtamu Befekadu  
-**Full Stack Developer | MERN Stack | Backend Enthusiast**
+### Full Stack Developer | MERN Stack | Backend-Focused Engineer
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a **Software Engineering student** at **Debre Birhan University** and a passionate **Full Stack Developer** with a strong interest in backend technologies.
+I am a Software Engineering student at Debre Birhan University with a strong focus on building modern full-stack web applications and scalable backend systems.
 
-I enjoy building **modern, scalable web applications** and experimenting with new tools and frameworks. My focus is on writing **clean, efficient, and maintainable code** while delivering **user-friendly solutions**.
+I enjoy developing REST APIs, authentication systems, dashboard platforms, and responsive user interfaces using the MERN stack and modern frontend technologies.
 
-I’m always eager to **learn, collaborate**, and grow with like-minded developers.
+My main interests include:
+- Backend architecture
+- API development
+- Database design
+- Performance optimization
+- Modern UI/UX development
 
----
-
-##  Current Activities
-
--  Exploring advanced features of **Next.js**
--  Learning backend optimization patterns with **Node.js**
--  Improving UI/UX skills using **Tailwind CSS** and **Framer Motion**
-
----
-
-##  Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp&logoColor=239120)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=8892be)
-![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
+I’m continuously learning new technologies and improving my problem-solving and software engineering skills through real-world projects.
 
 ---
 
-##  Frontend Technologies
+# 🚀 Featured Projects
 
+## 💼 Job Site Platform
+
+A full-stack recruitment platform where employers can post jobs and applicants can apply online.
+
+### Tech Stack
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+
+### Features
+- JWT Authentication
+- Role-based authorization
+- Job filtering and search
+- Admin dashboard
+- Responsive design
+
+🔗 Repository: https://github.com/boldhab/job-site
+
+---
+
+## 🍔 Food Delivery Platform
+
+A modern food ordering application with real-time order management and responsive UI.
+
+### Tech Stack
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+### Features
+- Authentication system
+- Cart and checkout
+- Order tracking
+- Mobile responsive interface
+
+🔗 Repository: https://github.com/boldhab/Food-Delivery
+
+---
+
+## 🏨 Hotel Management System
+
+A hotel booking and management platform designed for handling reservations and room management.
+
+### Tech Stack
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+### Features
+- Booking system
+- Admin dashboard
+- User authentication
+- Responsive UI
+
+🔗 Repository: https://github.com/boldhab/Hotel-management-front-end
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
 
 ---
 
-##  Backend Technologies
-
+## Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring)
@@ -63,54 +113,24 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-##  Databases
-
+## Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 ---
 
-##  Deployment & Version Control
-
+## Tools & Deployment
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 
 ---
 
-## Design Tools
-
-![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-Illustrator&logoColor=FF9A00)
-
----
-
-##  Frontend Projects
-
-[![](https://img.shields.io/badge/-🏨%20Hotel%20Management-000)](https://github.com/boldhab/Hotel-managment-front-end)
-[![](https://img.shields.io/badge/-🏠%20Real%20Estate-000)](https://github.com/boldhab/Real-esate)
-[![](https://img.shields.io/badge/-👥%20Social%20Manager-000)](https://github.com/boldhab/scoial-manager)
-[![](https://img.shields.io/badge/-📝%20Task%20Management-000)](https://github.com/boldhab/Task_managment)
-[![](https://img.shields.io/badge/-🛒%20E--Commerce-000)](https://github.com/boldhab/e-commerce)
-[![](https://img.shields.io/badge/-🎮%20Games-000)](https://github.com/boldhab/Games)
-
----
-
-##  Full Stack Projects
-
-[![](https://img.shields.io/badge/-💼%20Job%20Site-000)](https://github.com/boldhab/job-site)
-[![](https://img.shields.io/badge/-%20Food%20Delivery-000)](https://github.com/boldhab/Food-Delivery)
-
----
-
-<!-- GitHub Profile Stats Section -->
+# 📈 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Streak -->
   <img
     src="https://streak-stats.demolab.com?user=boldhab&theme=tokyonight&hide_border=true"
     height="180"
@@ -119,23 +139,20 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=boldhab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
     alt="GitHub Stats"
   />
 
-  <!-- Most Used Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldhab&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Most Used Languages"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Summary -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldhab&theme=tokyonight"
     width="90%"
@@ -143,19 +160,12 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
   />
 </p>
 
-<p align="center">
+---
 
-</p>
+# 📫 Connect With Me
 
+- 📍 Debre Birhan, Ethiopia
+- 💼 LinkedIn: https://www.linkedin.com/in/habtam-befekadu
+- 📧 Email: habtamubefekadu19@gmail.com
 
-
-</p>
-
-
-## 🔗 Connect With Me
-
-- 📍 **Location:** Debre Birhan, Ethiopia  
-- 💼 **LinkedIn:** [Habtamu Befekadu](https://www.linkedin.com/in/habtam-befekadu)  
-- 📧 **Email:** habtamubefekadu19@gmail.com  
-
-Feel free to reach out for **collaboration, internships, freelance opportunities, or tech discussions**.
+Feel free to connect with me for collaboration, internships, freelance opportunities, or software engineering discussions.
