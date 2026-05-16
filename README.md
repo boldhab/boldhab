@@ -107,18 +107,48 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Profile Stats Section -->
+
 <p align="center">
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Streak -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&hide_border=true"
-    height="160"
+    src="https://streak-stats.demolab.com?user=boldhab&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=boldhab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
   />
 
-  <!-- Profile Summary Card -->
+  <!-- Most Used Languages -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldhab"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldhab&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Profile Summary -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldhab&theme=tokyonight"
+    width="90%"
+    alt="Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophy / Grade -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=boldhab&theme=tokyonight&no-frame=true&row=1&column=6"
+    width="95%"
+    alt="GitHub Trophies"
   />
 </p>
 
