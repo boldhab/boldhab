@@ -144,12 +144,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 </p>
 
 <p align="center">
-  <!-- GitHub Trophy / Grade -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=boldhab&theme=tokyonight&no-frame=true&row=1&column=6"
-    width="95%"
-    alt="GitHub Trophies"
-  />
+
 </p>
 
 
