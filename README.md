@@ -109,28 +109,12 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 <!-- GitHub Profile Stats Section -->
 
-<div align="center">
 
-  <!-- GitHub Streak -->
 
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&hide_border=true&background=ffffff&stroke=f97316&ring=ea580c&fire=f97316&currStreakNum=111827&sideNums=ea580c&currStreakLabel=ea580c&sideLabels=374151&dates=6b7280"
- alt="GitHub Streak"
- width="700"
-/>
+## GitHub Stats
 
-<br /><br />
-
-  <!-- GitHub Overview -->
-
-<img
- src="https://github-readme-stats.vercel.app/api?username=boldhab&show_icons=true&hide_border=true&bg_color=ffffff&title_color=f97316&icon_color=f97316&text_color=374151&include_all_commits=true"
- alt="GitHub Overview"
- width="500"
-/>
-
-</div>
-
+| <img src="https://github-readme-stats-three-gamma-62.vercel.app/api?username=boldhab&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=f97316&icon_color=f97316&text_color=374151" height="180em"/> | <img src="https://streak-stats.demolab.com?user=boldhab&theme=default&hide_border=true&ring=f97316&fire=ea580c&currStreakLabel=f97316&sideLabels=374151&currStreakNum=111827&sideNums=f97316&dates=6b7280" height="180em"/> | <img src="https://github-readme-stats-three-gamma-62.vercel.app/api/top-langs/?username=boldhab&layout=compact&theme=default&count_private=true&langs_count=10&cache_seconds=86400&title_color=f97316&icon_color=f97316&text_color=374151" height="180em"/> |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
 
