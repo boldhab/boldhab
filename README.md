@@ -109,8 +109,9 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 <!-- GitHub Profile Stats Section -->
 
-<!-- GitHub Stats Section -->
 <div align="center">
+
+  <!-- GitHub Streak -->
 
 <img
  src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&hide_border=true&background=ffffff&stroke=f97316&ring=ea580c&fire=f97316&currStreakNum=111827&sideNums=ea580c&currStreakLabel=ea580c&sideLabels=374151&dates=6b7280"
@@ -118,19 +119,19 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
  width="700"
 />
 
-</div>
+<br /><br />
 
-<br />
-
-<div align="center">
+  <!-- GitHub Overview -->
 
 <img
- src="https://github-readme-activity-graph.vercel.app/graph?username=boldhab&bg_color=ffffff&color=f97316&line=ea580c&point=111827&area_color=fb923c&area=true&hide_border=true&custom_title=Contribution%20Graph"
- alt="Activity Graph"
- width="95%"
+ src="https://github-readme-stats.vercel.app/api?username=boldhab&show_icons=true&hide_border=true&bg_color=ffffff&title_color=f97316&icon_color=f97316&text_color=374151&include_all_commits=true"
+ alt="GitHub Overview"
+ width="500"
 />
 
 </div>
+
+
 
 
 
