@@ -37,9 +37,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp&logoColor=239120)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=8892be)
-![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
 
 ---
 
