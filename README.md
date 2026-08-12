@@ -7,7 +7,7 @@
 
 
 
-# 👋 Hi, I'm Habtamu Befekadu  
+#  Hi, I'm Habtamu Befekadu  
 **Full Stack Developer | MERN Stack | Backend Enthusiast**
 
 ---
@@ -22,13 +22,7 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ---
 
-##  Current Activities
 
--  Exploring advanced features of **Next.js**
--  Learning backend optimization patterns with **Node.js**
--  Improving UI/UX skills using **Tailwind CSS** and **Framer Motion**
-
----
 
 ##  Languages
 
