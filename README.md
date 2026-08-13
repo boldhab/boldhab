@@ -103,9 +103,9 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 
 ## GitHub Stats
-
-| <img src="https://github-readme-stats-three-gamma-62.vercel.app/api?username=boldhab&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=f97316&icon_color=f97316&text_color=374151" height="180em"/> | <img src="https://streak-stats.demolab.com?user=boldhab&theme=default&hide_border=true&ring=f97316&fire=ea580c&currStreakLabel=f97316&sideLabels=374151&currStreakNum=111827&sideNums=f97316&dates=6b7280" height="180em"/> | <img src="https://github-readme-stats-three-gamma-62.vercel.app/api/top-langs/?username=boldhab&layout=compact&theme=default&count_private=true&langs_count=10&cache_seconds=86400&title_color=f97316&icon_color=f97316&text_color=374151" height="180em"/> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=boldhab&theme=dark&hide_border=true" />
+</p>
 
 
 
