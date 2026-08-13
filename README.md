@@ -77,7 +77,6 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe-Illustrator&logoColor=FF9A00)
 
 ---
 
