@@ -1,6 +1,3 @@
-"
-
-
 #  Hi, I'm Habtamu Befekadu  
 **Full Stack Developer | MERN Stack | Backend Enthusiast**
 
