@@ -1,5 +1,5 @@
 #  Hi, I'm Habtamu Befekadu  
-**Full Stack Developer | MERN Stack | Backend Enthusiast**
+**Full Stack Developer | Mobile App Developer | Backend Enthusiast**
 
 ---
 
