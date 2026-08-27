@@ -67,7 +67,6 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 ## Design Tools
 
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 ---
 
