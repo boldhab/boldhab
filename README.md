@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a **Software Engineering student** at **Debre Birhan University** and a passionate **Full Stack Developer** with a strong interest in backend technologies.
+I am a **Software Engineering student** at **Debre Birhan University** and a passionate **Full Stack and Mobile App  Developer** with a strong interest in backend technologies.
 
 I enjoy building **modern, scalable web applications** and experimenting with new tools and frameworks. My focus is on writing **clean, efficient, and maintainable code** while delivering **user-friendly solutions**.
 
