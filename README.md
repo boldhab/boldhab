@@ -94,8 +94,16 @@ I’m always eager to **learn, collaborate**, and grow with like-minded develope
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=boldhab&theme=dark&hide_border=true" />
+<img
+  height="170em"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=boldhab&background=0D0D0D&border=2A2A2A&stroke=FF8C00&ring=FF8C00&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
+/>  
+
 </p>
+  <br>
+
+  <br>
+
 
 
 
